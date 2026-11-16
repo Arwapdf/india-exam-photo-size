@@ -1,0 +1,69 @@
+{
+  "name": "India exam photo and signature size list",
+  "last_checked": "2026-11-12",
+  "note": "Sizes for online application forms. Always confirm in the official notification of your exam year: rules can change.",
+  "tool": "https://www.arwapdf.com/exam-photo-resizer",
+  "exams": [
+    {
+      "exam": "IBPS / SBI (bank exams)",
+      "guide": "https://www.arwapdf.com/blog/ibps-sbi-photo-signature-size",
+      "items": [
+        { "item": "photo", "pixels": "200 x 230", "kb_min": 20, "kb_max": 50, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=bank-photo" },
+        { "item": "signature", "pixels": "140 x 60", "kb_min": 10, "kb_max": 20, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=bank-signature" },
+        { "item": "left thumb impression", "pixels": "240 x 240", "kb_min": 20, "kb_max": 50, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=bank-thumb" },
+        { "item": "handwritten declaration", "pixels": "800 x 400", "kb_min": 50, "kb_max": 100, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=bank-declaration" }
+      ]
+    },
+    {
+      "exam": "NEET UG (NTA)",
+      "guide": "https://www.arwapdf.com/blog/neet-photo-signature-size",
+      "items": [
+        { "item": "passport size photo", "kb_min": 10, "kb_max": 200, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=nta-photo" },
+        { "item": "postcard size photo (4 x 6 inch)", "kb_min": 10, "kb_max": 200, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=neet-postcard" },
+        { "item": "signature", "kb_min": 4, "kb_max": 30, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=nta-signature" },
+        { "item": "finger and thumb impressions", "kb_min": 10, "kb_max": 200 }
+      ]
+    },
+    {
+      "exam": "JEE Main (NTA)",
+      "guide": "https://www.arwapdf.com/blog/jee-main-photo-signature-size",
+      "items": [
+        { "item": "photo", "kb_min": 10, "kb_max": 200, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=nta-photo" },
+        { "item": "signature", "kb_min": 10, "kb_max": 100, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=nta-signature" }
+      ]
+    },
+    {
+      "exam": "CUET UG (NTA)",
+      "guide": "https://www.arwapdf.com/blog/cuet-photo-signature-certificate-size",
+      "items": [
+        { "item": "photo", "kb_min": 10, "kb_max": 200, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=nta-photo" },
+        { "item": "signature", "kb_min": 10, "kb_max": 50, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=nta-signature" },
+        { "item": "certificate (PDF)", "kb_min": 50, "kb_max": 300, "resize": "https://www.arwapdf.com/reduce-pdf-size" }
+      ]
+    },
+    {
+      "exam": "UPSC",
+      "guide": "https://www.arwapdf.com/blog/upsc-photo-signature-size",
+      "items": [
+        { "item": "photo", "kb_min": 20, "kb_max": 200, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=upsc-photo" },
+        { "item": "signature (one image with 3 signatures)", "kb_min": 20, "kb_max": 100, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=upsc-signature" }
+      ]
+    },
+    {
+      "exam": "SSC",
+      "guide": "https://www.arwapdf.com/blog/ssc-signature-size",
+      "items": [
+        { "item": "photo", "note": "taken live through the camera in the SSC form" },
+        { "item": "signature", "size": "about 4 x 2 cm", "kb_min": 10, "kb_max": 20, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=ssc-signature" }
+      ]
+    },
+    {
+      "exam": "RRB (Railway, NTPC)",
+      "guide": "https://www.arwapdf.com/blog/rrb-railway-signature-size",
+      "items": [
+        { "item": "photo", "note": "taken live in the RRB form" },
+        { "item": "signature", "pixels": "at least 140 x 60", "kb_min": 30, "kb_max": 49, "note": "one source says 10-20 KB; check your notice", "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=rrb-signature" }
+      ]
+    }
+  ]
+}
