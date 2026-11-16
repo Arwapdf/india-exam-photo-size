@@ -1,8 +1,8 @@
 # India Exam Photo & Signature Size List (2026)
 
-Photo, signature, thumb and document sizes for Indian online exam forms (NEET, JEE Main, CUET, UPSC, SSC, RRB, IBPS and SBI) in one place. The same data is in [`exam-photo-sizes.json`](exam-photo-sizes.json) for apps and scripts.
+Photo, signature, thumb and document sizes for Indian online exam forms (NEET, JEE Main, CUET, UPSC, SSC, RRB, IBPS, SBI, AFCAT and CTET) in one place. The same data is in [`exam-photo-sizes.json`](exam-photo-sizes.json) for apps and scripts.
 
-> Last checked: 12 November 2026. Rules can change every year. Always confirm the sizes in the official notification before you submit the form.
+> Last checked: 16 November 2026. Rules can change every year. Always confirm the sizes in the official notification before you submit the form.
 
 ## Quick table
 
@@ -15,6 +15,8 @@ Photo, signature, thumb and document sizes for Indian online exam forms (NEET, J
 | **UPSC** | 20–200 KB | 20–100 KB (one image with 3 signatures) | — |
 | **SSC** | Live photo in the form | About 4 × 2 cm, 10–20 KB | — |
 | **RRB (Railway)** | Live photo in the form | At least 140 × 60 px, 30–49 KB | Some notices say 10–20 KB |
+| **AFCAT 01/2027** | 100–200 KB | 80–150 KB | Thumb impression 50–100 KB (men left, women right) |
+| **CTET** (Feb 2026 bulletin) | 3.5 × 4.5 cm, 10–100 KB | 3.5 × 1.5 cm, 3–30 KB | — |
 
 ## Resize your photo to the right size (free)
 
@@ -29,6 +31,9 @@ You can make a photo or signature fit these limits in your browser with the free
 | SSC | [SSC signature size](https://www.arwapdf.com/blog/ssc-signature-size) |
 | RRB | [RRB railway signature size](https://www.arwapdf.com/blog/rrb-railway-signature-size) |
 | IBPS / SBI | [Bank exam photo, signature, thumb and declaration size](https://www.arwapdf.com/blog/ibps-sbi-photo-signature-size) |
+| AFCAT | [AFCAT 2027 photo, signature and thumb size](https://www.arwapdf.com/blog/afcat-photo-signature-thumb-size) |
+| CTET | [CTET photo and signature size](https://www.arwapdf.com/blog/ctet-photo-signature-size) |
+| JEE Main correction | [What you can change in the JEE Main correction window](https://www.arwapdf.com/blog/jee-main-correction-window-photo-signature) |
 
 Other free tools that help with forms:
 - [Compress image to 50 KB](https://www.arwapdf.com/compress-image-to-50kb)

@@ -1,6 +1,6 @@
 {
   "name": "India exam photo and signature size list",
-  "last_checked": "2026-11-12",
+  "last_checked": "2026-11-16",
   "note": "Sizes for online application forms. Always confirm in the official notification of your exam year: rules can change.",
   "tool": "https://www.arwapdf.com/exam-photo-resizer",
   "exams": [
@@ -63,6 +63,25 @@
       "items": [
         { "item": "photo", "note": "taken live in the RRB form" },
         { "item": "signature", "pixels": "at least 140 x 60", "kb_min": 30, "kb_max": 49, "note": "one source says 10-20 KB; check your notice", "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=rrb-signature" }
+      ]
+    },
+    {
+      "exam": "AFCAT (Indian Air Force)",
+      "guide": "https://www.arwapdf.com/blog/afcat-photo-signature-thumb-size",
+      "source": "AFCAT 01/2027 notification",
+      "items": [
+        { "item": "photo", "kb_min": 100, "kb_max": 200, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=afcat-photo" },
+        { "item": "signature", "kb_min": 80, "kb_max": 150, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=afcat-signature" },
+        { "item": "thumb impression (men left, women right)", "kb_min": 50, "kb_max": 100, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=afcat-thumb" }
+      ]
+    },
+    {
+      "exam": "CTET",
+      "guide": "https://www.arwapdf.com/blog/ctet-photo-signature-size",
+      "source": "CTET February 2026 information bulletin",
+      "items": [
+        { "item": "photo", "size": "3.5 x 4.5 cm", "kb_min": 10, "kb_max": 100, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=ctet-photo" },
+        { "item": "signature", "size": "3.5 x 1.5 cm", "kb_min": 3, "kb_max": 30, "resize": "https://www.arwapdf.com/exam-photo-resizer?preset=ctet-signature" }
       ]
     }
   ]
